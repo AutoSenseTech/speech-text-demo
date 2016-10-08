@@ -8,4 +8,5 @@ implement in iOS application. This demo will help u.
 
 ## IBM Developercloud Services Reference
 https://www.ibm.com/watson/developercloud/services-catalog.html
+https://www.ibm.com/watson/developercloud/speech-to-text/api/v1/
 
