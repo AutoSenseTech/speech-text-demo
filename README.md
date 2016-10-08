@@ -1,5 +1,5 @@
 # speech-text-demo
-speech to text demo with swift 3 iOS
+speech to text demo with swift 3 
 
 ## Synopsis
 
