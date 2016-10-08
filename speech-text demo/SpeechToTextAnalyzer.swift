@@ -14,8 +14,8 @@ class SpeechToTextAnalyzer {
     var respondString = ""
     //let urlString = "https://stream.watsonplatform.net/speech-to-text/api/v1/recognize?continuous=true"
     let urlString = "https://stream.watsonplatform.net/speech-to-text/api/v1/recognize"
-    let username = "cbe9d637-8a27-412f-bc27-f6e23b180344"
-    let password = "3VU8YGN4wBXK"
+    let username = ""   // this your IBM Bluemix username
+    let password = ""   // this your IBM Bluemix password  
     func analyze(languageChoose: String, audioSource:URL, completionHandler: @escaping (Data?, String?) -> Void){
         
         let config = URLSessionConfiguration.default // Session Configuration
